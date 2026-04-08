@@ -93,7 +93,8 @@ The dashboard includes slicers for:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](customer-sales-dashboard-excel--Image.png)
+
 
 ---
 
