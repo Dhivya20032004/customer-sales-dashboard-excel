@@ -1,6 +1,6 @@
 # customer-sales-dashboard-excel
 Interactive Excel dashboard analyzing customer purchase behavior and sales trends
-# 📊 Sales Dashboard (Excel Project)
+# 📊 customer-sales-dashboard (Excel Project)
 
 ## 📌 Overview
 
