@@ -115,7 +115,7 @@ The dataset contains the following fields:
 * Add customer segmentation
 
 ---
-
+![Sales Dashboard](customer-sales-dashboard-excel--Image.png)
 ## 🙌 Author
 
 **Dhivya**
