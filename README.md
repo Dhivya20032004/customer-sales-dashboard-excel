@@ -1,26 +1,26 @@
-# customer-sales-dashboard-excel
-Interactive Excel dashboard analyzing customer purchase behavior and sales trends
-# 📊 customer-sales-dashboard (Excel Project)
+# 📊 Customer Sales Dashboard (Excel)
 
 ## 📌 Overview
 
-This project presents an interactive **Sales Dashboard** built using Microsoft Excel.
-It analyzes customer purchase behavior, sales performance, and key business insights using Pivot Tables, Charts, and Slicers.
+This project showcases an **interactive Sales Dashboard** built using Microsoft Excel to analyze customer purchase behavior, sales performance, and business insights.
+
+The dashboard provides a clear and dynamic view of sales data using Pivot Tables, Charts, and Slicers.
 
 ---
 
 ## 🎯 Objectives
 
-* Analyze sales performance across different categories
-* Understand customer demographics and behavior
-* Identify trends based on season, location, and subscription
+* Analyze sales across different product categories
+* Understand customer demographics (Age, Gender)
+* Identify seasonal sales trends
+* Evaluate customer satisfaction through ratings
 * Build an interactive dashboard using Excel
 
 ---
 
 ## 📁 Dataset
 
-The dataset contains the following fields:
+The dataset includes the following features:
 
 * Customer ID
 * Age
@@ -56,45 +56,54 @@ The dataset contains the following fields:
 
 ### 🔹 Visualizations
 
-* Revenue by Category
+* Sales by Category
 * Sales by Season
 * Gender Distribution
+* Age Group vs Spending
 * Subscription Impact
 * Shipping Type Analysis
-* Age Group vs Spending
 * Review Ratings Distribution
 
 ---
 
-### 🔹 Interactivity
+## 🎛️ Interactivity
 
-* Slicers for:
+The dashboard includes slicers for:
 
-  * Category
-  * Gender
-  * Season
-  * Location
-  * Subscription Status
+* Category
+* Gender
+* Season
+* Location
+* Subscription Status
+
+👉 These allow dynamic filtering of all charts and KPIs.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Techniques
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Slicers
-* Data Cleaning & Transformation
+* Data Cleaning
+* Data Analysis
+
+---
+
+## 📷 Dashboard Preview
+
+![Sales Dashboard](dashboard.png)
 
 ---
 
 ## 📈 Key Insights
 
-* Clothing category generates the highest revenue
-* Majority of customers are male (~68%)
-* Non-subscribed customers contribute more revenue
-* Ratings are mostly between 3.5 – 5 (positive feedback)
-* Spending increases with age group
+* Clothing category contributes the highest revenue
+* Majority of customers are male
+* Non-subscribed customers generate more revenue
+* Customer ratings are mostly positive (3–5 range)
+* Spending tends to increase with age group
 
 ---
 
@@ -102,27 +111,26 @@ The dataset contains the following fields:
 
 1. Download the Excel file
 2. Open in Microsoft Excel
-3. Use slicers to filter data dynamically
-4. Explore insights from different charts
+3. Use slicers to filter data
+4. Explore insights interactively
 
 ---
 
 ## 📌 Future Improvements
 
-* Add time-series trend analysis
-* Include profit & cost metrics
-* Build Power BI version
+* Add time-based trend analysis
+* Include profit and cost metrics
+* Create Power BI version
 * Add customer segmentation
 
 ---
-![Sales Dashboard](customer-sales-dashboard-excel--Image.png)
-## 🙌 Author
+
+## 👩‍💻 Author
 
 **Dhivya**
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a star ⭐ on GitHub!
-
+If you like this project, please give it a ⭐ on GitHub!
